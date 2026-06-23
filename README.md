@@ -1,16 +1,27 @@
-## Hi there 👋
+# Norman Davis (davno93)
 
-<!--
-**davno93/davno93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring DevOps / Cloud Engineer  
+**Transitioning from OTR Truck Driver to building reliable, scalable systems.**
 
-Here are some ideas to get you started:
+- Currently following TechWorld with Nana DevOps Bootcamp  
+- Learning: Linux, Docker, Kubernetes, Terraform, AWS, CI/CD pipelines  
+- Goal: Expert-level DevOps/Cloud role with strong impact 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Skills & Progress
+- **Git & GitHub**: Active daily commits & portfolio building
+- **Foundations**: Linux, Bash scripting (in progress)
+- **Next**: Docker + first containerized app
+
+### Portfolio Projects
+(Will link repos here as completed)
+
+### Certifications
+- AWS Solutions Architect Associate (target: [December 2026])
+
+### Connect
+- LinkedIn: [www.linkedin.com/in/norman-davis-415778356]
+- Email: [normdavis93@icloud.com]
+
+---
+
+*Building in public. Consistent progress toward a career in Cloud & DevOps.*
